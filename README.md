@@ -10,7 +10,8 @@ Estudo Data Science na FIAP
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=raaaissa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-![Snake animation](https://github.com/raaaissa/raaaissa/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/raaissa/raaaissa/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
